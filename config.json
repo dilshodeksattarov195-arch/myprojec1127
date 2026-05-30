@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsync",
+        "uuid": 9732772,
+        "checksum": "sp4elj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
